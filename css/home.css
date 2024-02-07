@@ -1,0 +1,210 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1,h2,h3,h4,h5 {
+    font-weight: 400;
+}
+
+input {
+    background-color: #FEEDD8 !important;
+    color: #cec0b0 !important;
+}
+
+.navbar {
+    background-color: #cec0b0;
+}
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.btn-main {
+    background-color: #FEEDD8 !important;
+    color: #cec0b0 !important;
+}
+
+.chow {
+    background-color: #FEEDD8;
+}
+
+.chow-post-badges a {
+    display: inline;
+    color: #a79785;
+}
+
+.chow-post-badges a:hover {
+    color: rgb(128, 89, 57);
+}
+
+.media-links {
+    border-radius: 5px;
+    background-color: #cec0b0;
+    color: #FEEDD8;
+    font-size: 30px;
+}
+
+.media-links a:hover {
+    color: rgb(128, 89, 57);
+}
+
+.div-heading {
+    margin-left: 20px;
+    border-left: 5px solid #cec0b0;
+    color: #cec0b0;
+}
+
+.popular-post {
+    background-color: #cec0b0;
+    border-radius: 10px;
+}
+
+.popular-post-badges a {
+    display: inline;
+    color: #FEEDD8;
+}
+
+.popular-post-badges a:hover {
+    color: rgb(128, 89, 57);
+}
+
+.popular-post-content {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.chow-post .img-fluid {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.popular-post .img-fluid {
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+
+.popular-post .img-fluid:hover {
+    transform: translateY(-5px);
+}
+
+.home-posts {
+    background-color: #FEEDD8;
+}
+
+.home-posts .col-sm-9 {
+    border-left: 3px solid #FEEDD8;
+}
+
+.home-post-badges {
+    color: #FEEDD8;
+    font-family: 'Staatliches', cursive;
+    font-size: 15px;
+    text-align: right;
+    margin-right: 10px;
+}
+
+.home-post-content  {
+    margin-bottom: 10px;
+    background-color: #cec0b0;
+    border-radius: 5px;
+}
+
+.home-posts .img-fluid {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+
+.home-posts .img-fluid:hover {
+    transform: translateY(-5px);
+}
+
+.cont-badges {
+    font-family: 'Staatliches', cursive;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: right;
+    margin-right: 20px;
+}
+
+
+.cont-badges a {
+    display: inline-block;
+    background-color: #cec0b0;
+    color: #FEEDD8;
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+
+.cont-badges a:hover{
+    color: rgb(128, 89, 57);
+    transform: translateY(-5px);
+}
+
+.author img {
+    border: 3px solid #cec0b0;
+}
+
+.author h5 {
+    color: rgb(128, 89, 57);
+}
+
+.author p {
+    font-size: 0.8rem;
+}
+
+.author-media-links a {
+    margin-left: 0.8rem;
+    color: rgb(128, 89, 57);
+    font-size: 15px;
+}
+
+.author-media-links a:hover {
+    color: black;
+}
+
+.badges {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.badges a {
+    margin-left: 0.5rem;
+    display: inline-block;
+    margin: 0.2rem;
+    padding: 0.5rem;
+    background-color: #cec0b0;
+    color: #FEEDD8;
+    text-align: justify;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+
+.badges a:hover{
+    color: rgb(128, 89, 57);
+    transform: translateY(-5px);
+}
+
+
+.footer {
+    background-color: #cec0b0;
+}
+
+.footer-logo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.footer a {
+    color: #FEEDD8;
+}
+
+.footer a:hover {
+    color: rgb(128, 89, 57);
+}

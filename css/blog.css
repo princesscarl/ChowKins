@@ -1,0 +1,91 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1,h2,h3,h4,h5 {
+    font-weight: 400;
+}
+
+input {
+    background-color: #FEEDD8 !important;
+    color: #cec0b0 !important;
+}
+
+.navbar {
+    background-color: #cec0b0;
+}
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+
+.btn-main {
+    background-color: #FEEDD8 !important;
+    color: #cec0b0 !important;
+}
+
+.promotion {
+    background-color: #FEEDD8;
+}
+
+.testimonial-image {
+    margin-left: 50px;
+}
+
+.testimonial-text {
+    margin-left: 100px;
+} 
+
+.col-sm-8 p {
+    font-size: 20px;
+}
+
+.blogs {
+    background-image: url(https://lh3.googleusercontent.com/drive-viewer/AEYmBYQYns7co479rbRN1kx5B-2njdG9C3kYVvg7DSJHGIaDKLhUGKFgK3-xFWCwknxi7Zk55vTBc2ZCDEH3N0MpTbEJjWsl=s1600);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.content {
+    background-color: #cec0b0;
+}
+
+.blog-post {
+    border-bottom: 5px solid #FEEDD8;
+}
+
+.blog-post img {
+    border-radius: 10px;
+}
+
+.blog-post-badges {
+    color: #FEEDD8;
+    font-family: 'Staatliches', cursive;
+    font-size: 20px;
+    text-align: right;
+    margin-left: 10px;
+}
+
+.align {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.footer {
+    background-color: #cec0b0;
+}
+
+.footer-logo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.footer a {
+    color: #FEEDD8;
+}
+
+.footer a:hover {
+    color: rgb(128, 89, 57);
+}

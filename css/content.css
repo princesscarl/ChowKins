@@ -1,0 +1,105 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+input {
+    background-color: #FEEDD8 !important;
+    color: #cec0b0 !important;
+}
+
+.navbar {
+    background-color: #cec0b0;
+}
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.btn-main {
+    background-color: #FEEDD8 !important;
+    color: #cec0b0 !important;
+}
+
+.image {
+    text-align: center;
+}
+
+.img-fluid {
+    border-radius: 10px;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.content h5{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.content h2{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.light {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    margin: none;
+    text-align: justify;
+}
+
+li {
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+}
+
+.col-lg-9 {
+    background-color: #fffbf6ce;
+    margin-bottom: 10px;
+}
+
+.even {
+    background-color: #f7f7f7d7;
+}
+
+.article-heading {
+    border-left: 5px solid #cec0b0;
+    color: #cec0b0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.greeting {
+    border: 3px dashed #cec0b0;
+}
+
+.other-recipe .col-md-12 {
+    background-color: #fffbf6ce;
+}
+
+.other-recipe .col-sm-12 {
+    margin-bottom: 15px;
+    background-color: #fffbf6ce;
+    border-bottom: 2px dashed #cec0b0;
+}
+
+.footer {
+    background-color: #cec0b0;
+}
+
+.footer-logo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.footer a {
+    color: #FEEDD8;
+}
+
+.footer a:hover {
+    color: rgb(128, 89, 57);
+}

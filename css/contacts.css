@@ -1,0 +1,120 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1,h2,h3,h4,h5 {
+    font-weight: 400;
+}
+
+input {
+    background-color: #FEEDD8 !important;
+    color: #cec0b0 !important;
+}
+
+.navbar {
+    background-color: #cec0b0;
+}
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.btn-main {
+    background-color: #FEEDD8 !important;
+    color: #cec0b0 !important;
+}
+
+.kins {
+    background-color: #fffbf6;
+}
+
+.kins h2 {
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    color: #4e4d4c;
+    font-weight: bolder;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.team {
+    margin-bottom: 20px;
+}
+
+.team h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #696867;
+}
+
+.team h5 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+}
+
+.team h1 {
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-weight: 400;
+    margin-top: 10px;
+    color: #696867;
+}
+
+#contacts .col-lg-4{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#contacts p {
+    text-align: center;
+    color: rgb(128, 89, 57);
+}
+
+#contacts {
+    background-color: #fffbf6;
+}
+
+#contacts h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #4e4d4c;
+}
+
+#contacts p a{
+    text-align: center;
+    color: rgb(128, 89, 57);
+}
+
+.contacts-icons {
+    font-size: 30px;
+    color: #4e4d4c;
+}
+
+.media-links {
+    display: inline-block;
+}
+
+.footer {
+    background-color: #cec0b0;
+}
+
+.footer-logo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.footer a {
+    color: #FEEDD8;
+}
+
+.footer a:hover {
+    color: rgb(128, 89, 57);
+}

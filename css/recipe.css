@@ -1,0 +1,175 @@
+/* 
+bg: #FEEDD8
+sec bg: #DFB785
+*/
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1,h2,h3,h4,h5 {
+    font-weight: 400;
+}
+
+input {
+    background-color: #FEEDD8 !important;
+    color: #cec0b0 !important;
+}
+
+.navbar {
+    background-color: #cec0b0;
+}
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.btn-main {
+    background-color: #FEEDD8 !important;
+    color: #cec0b0 !important;
+}
+
+.recipes {
+    background-color: #FEEDD8;
+}
+
+.recipe-post {
+    margin-bottom: 10px;
+}
+
+.popular {
+    background-color: #f7f7f7d7;
+}
+
+.popular-post {
+    background-color: #cec0b0;
+    border-radius: 10px;
+}
+
+.recipe-post-badges a {
+    display: inline;
+    color: #a79785;
+}
+
+.popular-post-content {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.img-fluid {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+    transition: transform 0.8s;
+}
+
+.img-fluid:hover {
+    transform: translateY(-10px);
+}
+
+.media-links {
+    background-color: #cec0b0;
+    color: #FEEDD8;
+    font-size: 1.5rem;
+}
+
+.div-heading {
+    color: #644d32;
+    border-left: 3px solid #644d32;
+}
+
+.badges {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.badges a {
+    margin-left: 0.5rem;
+    display: inline-block;
+    margin: 0.2rem;
+    padding: 0.5rem;
+    background-color: #cec0b0;
+    color: #FEEDD8;
+    text-align: justify;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+
+.badges a:hover{
+    color: rgb(128, 89, 57);
+    transform: translateY(-5px);
+}
+
+.comms {
+    background-color: #f7f7f7d7;
+}
+
+.comment {
+	display: block;
+	transition: all 1s;
+}
+
+.commentClicked {
+	min-height: 0px;
+	border: 3px solid #cec0b0;
+	border-radius: 5px;
+	padding: 5px 10px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    text-align: left 20px;
+}
+
+textarea {
+	width: 100%;
+	border: none;
+	background: #cec0b0;
+	padding: 5px 10px;
+	height: 50%;
+	border-radius: 5px 5px 0px 0px;
+	border-bottom: 2px solid #644d32;
+	transition: all 0.5s;
+	margin-top: 20px;
+}
+
+button.primaryContained {
+	background: #644d32;
+	color: #fff;
+	padding: 10px 10px;
+	border: none;
+	margin-top: 0px;
+	cursor: pointer;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.25);
+	transition: 1s all;
+	font-size: 10px;
+	border-radius: 5px;
+}
+
+button.primaryContained:hover {
+	background: #6d2204;
+}
+
+.footer {
+    background-color: #cec0b0;
+}
+
+.footer-logo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.footer a {
+    color: #FEEDD8;
+}
+
+.footer a:hover {
+    color: rgb(128, 89, 57);
+}
+
+
